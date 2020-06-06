@@ -1,0 +1,201 @@
+ proud of myself that i solved this in my head this morning pre-coffee.xe2x80xaa#xe2x80x8ebragxe2x80xac nbviewer.ipython.orgalbert and bernard just became friends with cheryl, and they want to know when her birtxhday is. cheryl gave them a list of 10 possible dates:nbviewer.ipython.org
+ youtube scalability issues are mind-blowing. 4 billion views of video a day, 60 hours uploaded every minute, 350+ million devices are youtube-enabled. at the center of their core rests python, mysql, apache, and a bunch of simple tools strung together to divide and conquer. video demands have increased 9 orders, but developer count has increased by just 2. 7 years of youtube scalability lessons in 30 minutesif you started out building a dating site and instead ended up  building a video sharing site (...highscalability.com
+ anyone know how to code in python?
+ got a kid who wants to learn to code? check out my post on python for kids.http://nateaune.com/python-for-kidsxe2x80xaa#xe2x80x8epythonxe2x80xac python for kids - nate aunemany of my friends are having kids nowadays and asking me what are good resources for teaching kids python. i don't have any kids but i do know of some goodnateaune.com
+ jobs! jobs! engineering jobs! please join studionow in san francisco. we are looking to add these excellent people to the team: client engineer, server side engineer, python platform engineer.my designs are nothing without you. aboutabout studionow   xe2x96xbccorp.studionow.com
+ i added objective c to my brain last year. this year i'm thinking python. what are you learning? what most schools don't teachlearn about a new "superpower" that isn't being taught in in 90% of us schools. starring bill gates, mark zuckerberg, will.i.am, chris bosh, jack dorsey, ton...youtube.com
+ i find these days that i'm much less patient with programming in overly complex frameworks.  if i want a simple server side process i write it in python (and `import web` if it needs to be accessed across a network), i tend to serve json from my web apps and push as much composition and functionality as i can into javascript.  my api documentation is mostly a series of `curl` commands with expected output.  the upside is i feel like i'm more boldly approaching software development the downside is i think i'm less hirable in a corporate environment.  i haven't collected enough data to know if that's a bad thingsmile emoticon
+ http://stackoverflow.com/usersxe2x80xa6.  since the beginning of this year, i've earned 2,129 nerd points on stackoverflow answering javascript, java and python questions.  that seems about right. users - stack overflowstackoverflow.com
+ i just got wind of some great startup jobs.fit bark is looking for a firmware engineer- ios developer -http://www.fitbark.com/jobstenacity health needs a full stack mobile developer -http://tenacityhealth.us/careers...ollo mobile needs a front-end app developer - voip developer -http://ollomobile.net/jobsmedicast wants a marketing &amp; community manager -https://www.medicast.co/careerssymptom.lyis looking for a ui / ux designer - ios / android developer-python django djeveloper -http://symptom.ly/careers/see more
+ apparently the first fortran program was executed 59 years ago today (http://geeksfun.blogspot.com/xe2x80xa6/the-first-fortran-program-waxe2x80xa6).i personally still program in fortran, no matter what the "host" language is, as described in the following classic article. my only problem is that the implementation of goto in python is not very good. real programmers don't use pascalduring this period, the real men were the ones who understood computer programming, and the quiche eaters were the ones who didn't.pbm.com
+ we're hiring!full stack engineers (python, javascript, design)http://www.hey.co/apply?gh_jid=20647...ios engineers (20+ years experience in swift, plus objective-c, design).http://www.hey.co/apply?gh_jid=9353see more heyday - journaling reimagined.heyday is an automatic journal. it makes remembering effortless, beautiful &amp; fun, so you never forget another day of your life.hey.co
+ heydayis announcing a $10,000 bounty program for ios engineers (objective-c, good taste), devops (aws, automation, python), and analytics (data science, analytics engineering).do you have a friend who a) lives somewhere in the universe,  b) is the best engineer you know and c) is open to joining our mission of giving people perfect recall over their life experiences?connect me with her (siqi@hey.co) and we will bribe you with $10,000 if we hire her!
+ do any of my minneapolis facebook friends work in technology development and be interested in a python position?
+ i've already got a super interesting lead on a job and i've been working on a contract that i can't wait to tell you all about. (i will, as soon as my bits are in production) but: i am officially looking for new full time or contracting work. i'm a full stack, lean friendly python developer in my latest incarnation, but i've done all kinds of stuff. really i'm just looking for new, fun technical challenges and nice people to work with. prefer non-political stuff as i've been enjoying taking a little break from it, but i'm open to anything. thanks!
+ probably the best code i've ever written:https://snipt.net/zackkitzmiller/best-python-ever/
+technical advice: i have a moderately large data set (100m+ rows, but each row has only about 50 bytes of "standard" datatypes; a date/time as the most complex). usually, all i am doing on this is sequential scans.any advice on high(ish) performance file formats to save this in? text files are a bit unwieldy and sql solutions are starting show performance problems. a nice python library for reading / writing would also be nice.
+today, i wrote code in c, python, r, and matlab. i now believe that the first element of an array is found at index .5.
+my little side project to lint text from news articles for punditry, sensationalism, partisanship, etc. turned into a full django/python site.  feel free to copypasta text into the linter and see how biased your news is.:)and help me add rules for the linter athttps://github.com/xeus/newslint/tree/master/rule!read between the lines :: newslintin consumption and analysis of the news, half the battle is deciphering the intent and agenda behind the text to see if it's giving the story a fair take. newslint identifies loaded language, potential biases, punditry, partisanship, unprofessionalism, and other problems with text. not all of its wa...newslint.com
+ dear friends, i'm exploring full-time job opportunities. know of any early stage software startups that would want to hire a great python backend developer?
+ after 9 months of python on linux, spending the weekend writing c++ on windows makes me wonder how anyone could do anything with it, other than become a c++ programmer!
+ for the tinkerers out there: some good friends just launched this on kickstarter. read more on about it on techcrunch:http://techcrunch.com/xe2x80xa6/onion-omega-brings-web-smarts-to-ixe2x80xa6/ onion omega - build hardware with javascript, php, pythonkickstarter.com
+ i've been meaning to really learn some javascript and then... codecombat: learn to code by playing a gamelearn programming with a multiplayer live coding strategy game for beginners. learn python or javascript as you defeat ogres, solve mazes, and level up. open source html5 game!codecombat.com
+ do i know anyone (who knows anyone) who knows python and/or django? looking for someone in (or willing to move to) either austin or san francisco! /ccpaulderektrevorjustinjustinmarkcaseychadaustintylermattstevemichaelbrad(sorry for spamming you guys, but not sorry enough not to do it!)
+ i just started taking this class, which runs from today through may 26th -- i already know how to program, but i don't really know python very well. if you ever wanted to learn to program, i think it should be a good introduction. an introduction to interactive programming in pythonan introduction to interactive programming in python is a free online class taught by of rice universitycoursera.org
+my wife has never seen monty python &amp; the holy grail. that oversight is being rectified now
+why are stanfordxe2x80x99s servers on python 2.4.3, whyyyyy
+shared alink.hello world!welcome to the xe2x80x9c12 days of pythonxe2x80x9d, brought to you by xe2x80x9chello world! computer programming for kids and other beginnersxe2x80x9d.helloworldbookblog.com
+feeling nerdy atfacebook hq.xe2x80xaa#xe2x80x8epydataxe2x80xachas been fantastic so far! thanks to bryan van de ven ofcontinuum analyticsfor a great workshop on the bokeh library. i've never seen such a slick web-based plotting system.continuumio/bokehbokeh - interactive web plotting for pythongithub.com
+sitting at 34,000 feet working on a mrd, a python script (via ssh), sql table design and code, and, uh, a fb post. it's a good morning.
+newest project i'm pitching in on: for journalism, creating teaching materials to help journalists learn tech skills to do data/interactives and related work. would appreciate your support, if you're so inclined. stands for many of my core values.for journalismwe're creating educational materials for the next generation of news-application developers. python, ruby, maps, devops and more.www.kickstarter.com
+atbarnes and noble- neshaminy.saw a kid reading a python book in the web dev section of the store. on a friday night i had to talk to him to see what he does. hs senior looking to code. gave him my biz card and said to send me any examples of his work. someone young and this dedicated has a great futuresavesavedbarnes and noble- neshaminybook storexc2xb7bensalem, pa, united statesxc2xb74.3xe2x98x854,399 people checked in here
+i'm on the lookout for contract-based dev work in python/django, javascript, ios, phonegap. my effective hourly rate is low for python/django due to a fortuitous outsourcing arrangement. hit me up if interested.
+"so remember when you're feeling very small and insecure, how amazingly unlikely is your birth. and pray that there's intelligent life somewhere up in space, 'cause there's bugger all down here on earth!"galaxy song - monty python's the meaning of lifesubscribe to the official monty python channel here -http://smarturl.it/subscribetopythongalaxy song, taken from the meaning of life. buy the monty python ...youtube.com
+ note: i do not ever want to move to south florida: watch: man missing a cat makes terrifying discovery in sheda florida man made a bone-chilling discovery sunday night while cleaning out his shed at his hialeah home: a giant albino burmese python eating a cat skull. watchxe2x80xa6huffingtonpost.com
+ kaboom and shazaam co-star insarah donner's latest covered with kittens video.wink emoticon covered with kittens ep. 23 "i will follow you into the dark" (death cab for cutie)sarah takes her life into her hands with the cast of monty python. they have huge pointy teeth.www.saxe2x80xa6youtube.com
+feeling festive 1 day to go...xe2x80xaa#xe2x80x8emusicalcomedyadventcountdownxe2x80xaceric idle eric idle performs f**k christmassubscribe to the official monty python channel here -http://smarturl.it/subscribetopythonvisit the new monty python itunes store -http://smarturl.it/monty...youtube.com
+ monty pythonized graduation: "right here mollusks frolicked..."xe2x80xaa#xe2x80x8e3rdbestgradspeakerbehindoprahxe2x80xac&amp;obamaxe2x80xaa#xe2x80x8eericidlexe2x80xac
+withdavid fear talked toeddie izzardabout his ambitious stand-up project to celebrate the 70th anniversary of d-day. he's performing it in english, french &amp; german. (cool, i'll just go back to watching movies on netflix and not feel bad) 'two weasels, covered in gravy': qa with eddie izzardthe comedian talks about his historic d-day show, the difficulty of translating jokes into german and his upcoming monty python projectrollingstone.com
+withcleo raven zins simmeratgold medal park monty python and the holy grail at gold medal park. some people are very ready. 0:00/0:00
+ he mentioned holly, but he definitely forgot about molly... eric idle performs f**k christmassubscribe to the official monty python channel here -http://smarturl.it/subscribetopythonvisit the new monty python itunes store -http://smarturl.it/monty...youtube.com
+ this is how some software projects feelsmile emoticonhttp://youtu.be/ur5fgsbsfq8 monty python footballmonty python guyswith their crazy ideasyoutube.com
+withallison alyseatregal metropolitan 14 monty python reunion show, live telecast. savesavedregal metropolitan 14movie theaterxc2xb7austin, tx34,245 people checked in here
+ i will travel the world for this - who is with me? monty python reunion planned for new stage show - telegraphthe surviving members of monty python, john cleese, terry gilliam, terry jones, eric idle and michael palin have agreed to reunite for a new stage showwww.telegraph.co.uk
+ "some things in life are badthey can really make you madother things just make you swear and cursexe2x80xa6" always look on the bright side of life - monty python's life of briansubscribe to the official monty python channel here -http://smarturl.it/subscribetopythonalways look on the bright side of life, taken from life of brian. ...youtube.com
+ killing time in dc at the barnes &amp; noble playing monty python fluxx while we wait for our movie to start
+feeling weary athopital saint-luc interesting 16 hours: friend richard jones broke arm whilst small group sightseeing around montreal (ice + little bit of silly/recklessness).learnt canadian emergency and hospital system (the number is 911 ~facepalm, stupid foreigners couldn't remember this), unexpectedly encountered more unhelpfulness than expected but also some gems of care.nick coghlan, @another_thomas, toshio kuratomi were best cavalry, we all hung out patiently, python people continuing to be amazing....farewelled the beautiful toronto crew (diana, wolever, taavi).should be able to get to princeton geo-sciences beers tonight to see the amaze-ballsmorgan hedgesandadele morrison.will try to catch my uncle in nyc. boston soon afterheart emoticondenial mudhookandthomas fallon.phew.see more savesavedhopital saint-luchospitalxc2xb7montreal, canadaxc2xb74.0xe2x98x854,710 people checked in here
+ http://goalsettingrocket.com/clarityis this better with audio? i just added a peppy audio to this page (be sure to listen to the end for a laugh if you are a monty python fan) please tell me what you think of the audio, if it adds value to the page? thanks! clarityhow to decide which project to do next? free live teleseminar tonight includes download of the clarity finder template - this really works - but you must register!goalsettingrocket.com
+ nope! kid rides giant pythona small boy in cambodia has made friends with a 5 meter-long burmese python. let's hope it lasts. subscribe:http://bit.ly/yt0p03where else to find diagonal...youtu.be
+there was a female student at the pasta station singing a monty python and the holy grail song to a guy. that's drew university in a nut shell.
+ best line: "there will be a long and anguished inquest into what happened to spain today" in their game against chile. as monty python used to say: "nobody expects the spanish inquisition!"
+ always look on the life side of bright -http://t.co/jsnv1ldyhi.in case you need a little -http://t.co/nu5l4nz5x1http://t.co/5vumpcergi monty python reunion planned for new stage show - telegraphthe surviving members of monty python, john cleese, terry gilliam, terry jones, eric idle and michael palin have agreed to reunite for a new stage showwww.telegraph.co.uk
+ for our friends in ca and abroad,erin bremmerand i are totally fine. erin is drinking wine and watching sex and the city with her roommate.lee fairchildand i are finishing off the mostly empty bottles of random booze i don't want to move into my new apartment and watching monty python. it's very windy outside and there's plenty of branches and leaves in the street, but bars are still open and people are still making beer runs and walking their dogs.some people aren't lo...ving the storm though. parts of zone a (waterfront) are flooded, tunnels are flooding and some people have lost power (mostly lower manhattan). a transformer or two exploded, and coned has sent robocalls saying that they may need to cut our power as a precaution. a couple old people got hit by branches, but otherwise nobody's hurt.basically, the whole city is drunk and watching movies, and there's going to be a mess to clean up. it's the people actually in the path of the storm that you should be concerned for, not us.see more
+ mary c. weaver,maria magdalena davila ristmonty python and the holy grail summer blockbuster trailer monty python and the holy grail modern trailerwhat if "monty python and the holy grail" would release in 2013 ? fake trailer who sells a tragic and epic blockbuster with sounds effects who goesxe2x80xa6youtu.be
+an incredible feature all about my best friend and future wife,camille lauren zarskyin fast company magazine.  so cool and impressive.a plan to tackle florida's python problem, one luxury handbag at a timecamille zarsky wants to source pythons for her luxury handbags from the everglades tackling an environmental problem while sourcing locally. easier...fastcompany.com
+a good laugh at the end of a crazy day!http://www.youtube.com/watch?v=anwy2mpt5respam spam spam spam spam!monty python - spamthe origin of spam. if you like this video, support monthy python buying their dvd.youtube.com
+shared alink.broken biscuits: top fan - bbc comedy extrahttp://www.bbc.co.uk/comedy/extratop gun spoof video. with danger hot on his tail, will matador overcome the evil python and escape with his life?xe2x80xa6youtube.com
+tonight's dream: met jim henson, sitting at my desk at work. then mr. rogers took me on a tour of the filming sites of monty python and the holy grail. yeah. i dunno. childhood something something?
+anyone have any luck with django-rest-framework?xe2x80xaa#xe2x80x8epythonxe2x80xacxe2x80xaa#xe2x80x8edjangoxe2x80xac
+just wants to be able to process gigabytes of data, quickly, without loss. mongodb crashes. s3 is slow and not always available. and multiprocessing in python is wonky. why can't things just work? any suggestions?
+monty python tickets sold out in under a minute. trying to look on the bright side of how much money i've saved.
+atthe o2 arena.monty python!savesavedthe o2 arenasports venuexc2xb7london, united kingdomxc2xb74.3xe2x98x85196,501 people checked in here
+oh cool an ipad app on the making of the holy grailmonty python: the holy book of dayswitty cast commentary and blu-ray synching in this behind-the-scenes app for ipadcoolhunting.com
+excited to be attending the last might of the pythons show at the o2 tonight.
+atregent theatre arlington.40th anniversary monty python and the holy grailsavesavedregent theatre arlingtontheaterxc2xb7arlington, maxc2xb74.3xe2x98x859,614 people checked in here
+am i the only monty python fan that has no interest in seeing older, fatter versions of sketches i grew up with?
+medical update for all of my fb friends: i got put back in the hospital on new years eve due to running a fever over 102. we did a test for flu and strep at an urgent care place and both came back negative, so it led us to the only thing it could be: an infection in my incision. we got into the er and then admitted to a room. about that time, the surgeon showed up and told us that even with the aggressive antibiotics they pumped through my iv, we had to go back to surgery so...he could really get it all out. he also put in a wound vac, which i will leave to you to look up. anyways, had the second surgery on new years day and my stay has extended to tuesday or wednesday, depending on how i do with the wound vac.so yeah, i have had a lot of medical fun this last month or so. we shall see where go from here. in the immortal words of monty python's quest for the holy grail: "i'm not dead yet!! i'm getting better!!"smile emoticonsee more
+shared alink.world cup philosophy: germany vs france - existential comicsthis comic is an homage (or perhaps ripoff, if you are feeling less generous) of monty python's classic skit, "the philosophers' football match".existentialcomics.com
+“@openculture: monty python’s best philosophy sketches. including the "the philosophers’ football match”http://goo.gl/yhgq1 ” favorite!
+@jacobrothstein you mean monty python?
+a los geniales monty python les debemos, entre otras cosas, el origen de la palabra "spam"!see translationmonty python - spamthe origin of spam. if you like this video, support monthy python buying their dvd.youtube.com
+thankseater bostonbrian poe on exotic meats, from camel to pythonon any given visit to the tip tap room, you might find antelope meatloaf listed alongside an escargot and frogs' legs dish &amp;#8212 and perhaps some camel, yak, or...boston.eater.com
+though previously presumed impossible, how do you make a monty python song better? havestephen hawkingsing it.stephen hawking sings monty pythonxe2x80xa6 galaxy song (music video)monty python - galaxy song available to buy now from itunes -http://po.st/ed0ikjenjoy our latest video for our new single, xe2x80x9cstephen hawking sings monty pyt...youtube.com
+withtracy lynn dinsdaleandalexis dinsdaleatthe grand theatre.monty python's not the messiah.savesavedthe grand theatretheaterxc2xb7salt lake city, utxc2xb74.3xe2x98x851,694 people checked in here
+i have the letter m.like this post and i will send you a letter.something i hate....... martians *i'm scared of aliens.something i love......... mookie (my husbandchristian)...somewhere i've been..... marchena island in the galapagos islands, ecuador- while trying to find their famous lava lizard!somewhere i'd like to go...... mauritius! *i'll never get sick of indian ocean islands.someone i know.....michelle russellfavorite film..... starting with "m": monty python and the holy grailsee more
+feeling crazy atsantosa island , singapore.with python snakepic by:bhanu charan
+alex martelli modelling his new python shirt from@elegant_stitch#pyconpic.twitter.com/bjckm3onb1
+i think i've gone down the python rabbit hole. just made a commit referring to "gevent monkey patching."
+got python to control garageband. i am god. mwaahaahaaaa
+@pythonchelle:)
+leaving church a bit early today to see the monty python simulcast. heathen? na, i’m pretty sure that’s wjwd.
+#spamalot#montypython(@ stanley industrial alliance stage (arts club theatre company))http://4sq.com/qxpf21 
+monty python and the quest for the holy grill.pic.twitter.com/p6t08vcjke
+i just got tickets to see spamalot in sf on wed 4/18 at 8 pm. just $45 (w/fees) -- compared to $75 (+ fees). join us!http://www.goldstar.com/events/san-francisco-ca/-monty-pythons-spamalot …
+so relaxed. rt@globalpost: you can get massaged by giant pythons at this philippines zoohttp://glpo.st/1oebxmv pic.twitter.com/3mb83gwlgx
+#beautiful#big#python#warming#himself#byron#mullum#mainarm@ altitude261http://instagram.com/p/ose4d6bxyo/ 
+but! maximum hangs tonight with@olasitarska,@asendeckaand more of my fave python pony posse.
+so honored to spend their last night in new york with the warszawa python gang. come back soon@olasitarska@asendecka@oinopion@suda.
+@fightowensfightsnoop flexing his 2 inch pythons#rapiscrap
+#gopdebateclosing's "humble roots" oneupmanship reminds me of the@montypythonfour yorkshiremen sketch:http://youtu.be/xe1a1whxtyo 
+watching monty python live (mostly) via hackney picture house. great crowd!
+"spying with python" by lynn root (@roguelynn) of@spotify:http://roguelynn-spy.herokuapp.com/ "root" is an awesome name in this industry! boss!
+just once, i’d like to hear an advertisement on a python podcast to buy actual snakes
+my kids are begging to watch monty python and the holy grail or the color of magic. i think my work here is done.#missionaccomplished
+monty python was mostly live and entirely funny.
+monty python time ... always look on the bright side (@ the o2 arena for monty python live)http://4sq.com/1pxha33 
+there's a python in the studio this morning. normal morning around here. @ fox and friends @ fox news…https://instagram.com/p/7pwspqmbbo/ 
+is there a way i can have a giant green python hang around my room but also never acknowledge me ever? (!)
+#montypythonlivepeople a bit harsh at the@goldtvchannelhistoric event, 2nd act post 9pm and no bleeps on tuesday. free, stop moaning.
+at the@imamuseumto watch monty python and the holy grail
+drinking a monty python's holy grail ale by@blacksheepbeer@ carolina ale house —http://untp.beer/s/c160518448 
+all matte black genuine python cases are back in stock for iphone 5 & 5s. treat yourself before they…http://instagram.com/p/pjfg62ezni/ 
+some nights, i sit back and contemplate the meaning of life. luckily monty python is here to help explain it!
+the full monty python and the holy grail#20x2game
+i just walked past either a flock(?) of nuns or a monty python sketch.
+seeking a grail#montypython@ the texas renaissance festivalhttp://instagram.com/p/ulfprfitjo/ 
+thanks for a great season. go, pythons!#soccerpic.twitter.com/hnx86g42kz
+spamalot!!! (@ the hollywood bowl for monty python's spamalot in los angeles, ca)https://www.swarmapp.com/c/eoubktwxw75 pic.twitter.com/zrg3ibbb7q
+safe to say vogels doesn't like python
+i’ll make may kids watch this as much as i’ll make them watch godfather, monty python and ferris beuler.
+monty python and the holy grail. watching.
+oh: “python is a hell of a drug” re: that enthusiastic lightning talk#pycon
+@stephaniebethpython 3!
+python blood leads to "big leap" in science.
+nyc python / flask meetup (at the perfect pint) —https://path.com/p/1xpqza 
+spiny norman would be totally psyched.http://en.m.wikipedia.org/wiki/monty_python's_flying_circus …[pic]:http://4sq.com/190jqfxexcept from terry gilliam's memoir on early days as a copyright pirate, developing his animation style:http://www.afr.com/lifestyle/arts-and-entertainment/books/terry-gilliams-memoir-giliamesque-on-the-art-behind-monty-python-20151005-gk1cb8?stb=twt …
+huh. turns out siri might be into monty python.pic.twitter.com/cwhbdxz4pv
+ok, no monty python foot stomping out the olympic flame, but life of brian w/ eric idle was awesome
+drinking a monty python's holy grail ale by@blacksheepbeerat@moonunder—http://untp.beer/s/c197830098 
+seeing monty python melissa (@ the o2 arena for monty python live w/ 19 others)https://www.swarmapp.com/pierskarsenbarg/checkin/53b58d87498e4a64cab4c8b2?s=5iyt4mysebjjzb1z_c7cj66ym7w&ref=tw …
+and that is why cambridge is better than oxford#montypythonlive
+was that a sneaky fuck slipped out?#montypythonlive
+did anyone see that ludicrous display last night?#montypythonlive
+uk@goldtvchannel's transmission of#montypythonlivehas so many beeps, dogs across the country are howling.
+i'm at amc concord mills 24 -@amctheatresfor monty python live (mostly) (concord, nc)http://4sq.com/1nx8ipa 
+re-watching monty python and the holy grail. it shall be a good night.
+python skeleton at chicago field museum @ the field museumhttp://instagram.com/p/xxd3f9nfks/ 
+monty python live! with the@boondogglegamesgang xd @ the o2 arenahttp://instagram.com/p/p6y4gebidr/ 
+thanks to@boondogglegames@johncleese@ericidlemy 5 year old is humming the theme to#montypythonsflyingcircus.. a proud parent moment!
+john cleese over creativiteit: "you need silence to hear the whispers of your subconscious"#collegetour#johncleese#qotd#montypython#fb
+any idea where the local vet is? cause these pythons are sick! (@ planet fitness in cary, nc)https://www.swarmapp.com/c/78nempsnme9 
+"it's a python," he said.
+i did see someone with a python though! oh, and cats...
+life saver!!  we found a python in our garage
+they had a few bearded dragons*, some corn snakes and a couple of ball pythons.
+great place good service and i buy my feeder rats for my ball python here.
+i had not been in this store before but the ball python needed to move from mice to rats and they said they had them in stock.
+just picked up this beautiful pastel female ball python shes a beaut for sure!
+the snakes looked alright, but they had mostly burmese pythons and colubrids.
+so i went in to purchase some ants which they didn't carry i ended up walking out with a golden knee and the next day a mojave ball python.
+i will return to predators for all of my future business bc sometimes ball pythons don't eat and the rats need to be returned.
+that isn't surprising, really, considering the massive python of a snaking line up
+i brought my gorgeous green tree python to see dr. k on a matter of a stomach issue.
+money hungry pythons!!!!
+the highlight for me was being allowed to hold a ball python snake by one of the attendants,
+i recently acquired a ball python and have been surprised at the lack of support i have with my family and friends.
+the people are always super nice and understand my picky ball pythons demands for all white feeders.
+they had a python at the time, too,
+they have varied displays ranging from stuffed animals to mineral exhibits to live sharks and a pair of pythons to some interesting dinosaur animatrons.
+bought a fire ball python...
+they have exhibits of live animals like burmese pythons, tarantulas, scorpions and lizards.
+they have freaking python filets for goodness sake.
+i recently went to go buy a under tank heater for my ball python as hers had unexpectedly gone out and we needed one asap.
+i have bought kangaroo, quail eggs, python, rabbit, boar, various caviars, skate wing, dragon beans, fruits from all over the world and so many more fun things. but for while now they have been carrying less and less of the things that made market district different than any regular giant eagle.
+on fridays the"meats gone wild" guy is here: alligator, antelope, kangaroo, python, yak, boar.
+i felt like a python when leaving.
+we bought our ball python from this store right before they changed locations.
+i had a tragic experience with a ball python i purchased else where...
+i purchased one of my ball pythons from them back in 2009 and he is still doing wonderful.
+we go every few weeks to get feeder rats for our ball python.
+huge selection of boots of all materials, even some that are illegal to buy in the states: alligator, kangaroo, python (and, of course, bull hide).
+i bought my ball python from there in september and every single question i have
+i think a green tree python and a few ball python morphs is all i can really remember.
+we got our kids a pet ball python.
+sadly the python relieved itself all over my couch cushions.
+i come here a lot for all my reptiles for mostly food but today i finally bought an albino jaguar carpet python from them.
+i was in a panic bc it was time to feed my ball python
+one day, that python gia satchel will be mine!!
+i've been planning on getting my first ball python for a few months prior to getting one.
+after purchasing my baby ball python who i've had now for about 4 months
+i got my ball python "king" from here, he is the perfect snake, eats well, active sometimes, and hasn't bit anyone.
+we've already started researching info for a potential purchase of a ball python and will more than likely purchase it form here.
+i inherited my sisters ball python for my classroom and literally knew nothing about snakes.
+i have a ball python.
+i have recently become a frequent customer to this place because i have a ball python
+i have a ball python, a leopard gecko and now a baby black blood python i purchased from the store.
+ended up buying a ball python and everything needed to take care of her.
+i did see a python on the trail we were on though, i'd say that's my highlight of the trip.
+i came here in a good mood and left in an even better mood and feeling like a python after eating a cow.
+to be honest, i always really hated monty python.
+my dog was bitten in the eye by a pet ball python that had escaped his tank.
+i remember seeing a komodo dragon, an alligator, and a large python.
+try walking onto a plane with a couple purple and orange pythons wrapped around your neck.
+i was skeptical using a chain (non-specialized) pet store for my very specific snake (ball python) -related questions.
+our reptile family consists of a ball python, 2 bearded dragons and just recently added a sulcata!!!
+i rolled out feeling like a python that had swallowed a goat.
+they have sharks of all kinds, sawfish, giant rays, enlarged green sea turtles, piranha, jellied, python and rare golden crocodile!
+my favorite pieces are the funky python printed jeans by tripp nyc ($110) and the practical
+i plan a short initial trip to the everglades this weekend and being up and away from gators and pythons will be nice.
+i spent two hours with the owner when picking out my royal python and he showed my every snake i requested.
+i fell in love with and bought a $400 pied ball python.
+i was at this store last night and an older employee was trying to tell me the proper way to care for a ball python.
+also seeing so many ball pythons shoved in 1 cage made me a bit sad.
+jared did an awesome job with bringing out this little python for my family
+luckily the day i had went in their store they just restocked on their baby ball pythons.
+ i look at it online and then see the python one. swoon!
+looking into the meat counter in the back of the store, one might find fresh python or alligator!
+we upgraded our 30 minute party package with a 9 foot python that blew everyone away.
+update my 24yr old python had died because of the mite infested rat that i gave her two days from this place.!!!!
+they have many different types of pythons, boas and colubrids.
+notably the burmese pythons, the shark & stingray and the sea horse tanks are cool.
+we found a python in our garage, likely someones pet that got loose, and didn't know what to do!!

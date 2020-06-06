@@ -1,0 +1,67 @@
+sacrebleu, the service here is so comically poor it's like a monty python skit about a french cafe, but the garden is lovely and the croque madame is excellent.
+come here for monty python's brews in a chalice and the best of michael mcdonald on the speakers.
+any quote from seinfeld or monty python will get you a warm greeting and maybe even a hug!
+seriously, the $10 you spend on an "albino python" is totally worth it.
+they only have beer, if thats not a problem then try monty pythons holy ale
+monty python holy ail on tap!
+we're always looking for solid python and c developers with a unix background. this place is awesome!
+drchrono is hiring amazing developers. python + android + physicians https://drchrono.com/jobs
+“@openculture: monty python’s best philosophy sketches. including the "the philosophers’ football match”http://goo.gl/yhgq1 ” favorite!
+@jacobrothstein you mean monty python?
+alexa coming up donuts on monty python jokes--no idea how fast a sparrow flies.
+... i broke out in a python-esque one-man skit about the situation. she lit up like a lightbulb with laughter. "oh i miss this." she said.
+though today i became the first man since hulk hogan (or mr. marcus, i guess) to use the phrase “i gotta polish up this python” in context
+monty python quote along! (@ lincoln square cinemas - @cinemarkusa for monty python and the holy grail quote-along)https://www.swarmapp.com/c/g3jkqkwzny7 
+the nsa’s denials (http://j.mp/1qm0my7 ) are starting to sound a lot like monty python’s black knighthttp://youtu.be/dhrue-gz690 
+can you "store" tab groups in safari and/or chrome? so i can open a named tab group like "python research" when i have time to continue?
+monty python meets beetle juice in this bacteriaartgroup mural - 17th & mission#sanfrancisco…http://instagram.com/p/xup3sbebx_/ 
+ guido talks about python at dropbox with more female engineers in a room than i've been beforepic.twitter.com/qcfmeae1
+as i’m getting back into python,@github’s atom is blowing my everloving mind.
+@helixblueonly feels like work because thats what you code in, at work. now that i code java at work, python at home is fun again!
+@metaskillswe really ought to get to 1.9 soon. it's much better, and we don't want to turn into python or perl, here.
+reason i <3#python, number 549:  >>> value in some_list true  why isn’t this *built in* to every programming language.
+vm/lamp/shibboleth = things i need to do this weekend….that and python api work.  yay me!#fb
+any of my friends big users of ipython notebooks? curious to learn more from an expert.
+#datasciencefolks: webinar is now live ⇒http://bit.ly/1kbep1n  learn reproducibility, collaboration, and reusability #python#rstats
+better interactive#datasciencewith beaker and rodeohttp://bit.ly/1goobpw cc:@beakernotebook#rstats#python
+pandas categoricalshttp://bit.ly/1hoqvij guest post by@mrocklin#python#datascience
+comparing#pythonand r for#datasciencehttp://blog.dominodatalab.com/comparing-python-and-r-for-data-science/ …guest post via@datacamp#rstats
+domino +@galvanize#datascienceseminar is in full swing!  come by and say hello -- use cases in#python&#rstatspic.twitter.com/e4qwzill3k
+@jcroft@awoods@bahooit's a combo move, because i'm looking for help with a python script for creating a sqlite db from a text file
+do i know anyone that's really good with python and sqlite?
+we’re expanding to the east bay! want to learn python? come by the latest pyladiessf weekly study group in berkeley:http://pyladi.es/1t6kgyw 
+concepts taught as needed in "invent your own games with python" for project-based learning.http://inventwithpython.com @matznerd@pygotham
+lists are python's most dangerous data structure says@brandon_rhodes#pycon2014
+rt@sarah_guido: check out the tutorial “building a minimal recommendation engine in python”http://unatainc.github.io/pycon2014/ #pycon#pycon2014
+“python for zombies” is a free online course (mooc) in brazil.http://pycursos.com/python-para-zumbis/ …#python#pycon2014
+oh and@natea's talk on docker andhttp://appsembler.com is up -http://youtu.be/su4wn-ftzdw #sfpythonmeetup
+giving a talk about launcher and@dockerat sf python meet up! (@ twitter hq -@twofficew/ 25 others) [pic]:http://4sq.com/1gfqx3m 
+@polledemaagtscraped api using homemade python script, used r (&@rstudio) to run the analyses. bit of a bodge; but works.
+gravity mobile wants a back end server developer at mobile app company (python / sql) - http://bit.ly/fft6si
+gravity mobile wants a back end server developer at mobile app company (python / sql) - http://bit.ly/fft6si
+coding party with@victordeboer& michiel.#synergique#arduino#raspberrypi#python…http://instagram.com/p/ytruaul82a/ 
+haha@0xax: a python proframmer gives java a try#reddit#programmingpic.twitter.com/l2pax4zhqx
+if i have a python lib with ./foo/__init__.py etc and ./examples/example.py how do i get example.py to see the lib? ./foo-example.py works.
+swift “generators” are more like javascript/python “iterators”, right?http://iosdeveloperzone.com/2014/10/13/swift-standard-library-generators-sequences-and-collections/ …“generator” to me implies “yield” etc.
+is there really no good way to avoid exporting certain class/methods in python? in particular stuff you import seems to be exported?
+do you write and deploy python web apps/services? please let me know :)
+schedule is up for our#pythondata analysis workshop on 4/20! have fun at#pyconpeople.http://www.meetup.com/pythonsd/events/94234812/ …
+just github’d a python app for researching ip’s, dns, etc. feel free to check it out!http://github.com/benhagen/dossier/ …
+a great panel discussion at@sfpythonmeetuptonight about python 2 and 3pic.twitter.com/hj8bkxykyx
+google does not use python. anything you've heard of was not written in python. any internals tools that use python are far from idiomatic.
+could you use overloading to make python a loosely-typed language?
+playing around with pythonpic.twitter.com/lndger75uw
+help us change the way people learn! looking for ui (react/js) and api (python/django) engineers in nyc.#ycs15https://hickorytraining.com/team/ 
+the fact that there are no docstrings in your python code is literally the first thing i notice.
+i should learn python just for this ...http://pandas.pydata.org/ 
+trying to write something in ruby after being deep in python is confusing
+i need a python intervention.#importantigravity
+pythonic (adj): code that 1.) uses python features like list comprehension to express statements concisely, 2.) is fucking unreadable.
+may i also add that this is only the second time i've ever used python.
+what did i do today? oh, just reverse-engineered the esa's "proprietary" satellite data parser and reimplemented it in python.#booyah
+looking for a data/analytics guru@shopularapp. proficiency w/ sql & python desired. i'll buy you an awesome dinner for referrals :-)
+@hackoakfirst pass at python parser of spreadsheet of oakland major housing projects. a first step...https://github.com/caseyjlaw/hackoak-parse-majorprojects …@openoakland
+company i know with some great people is looking for an ios, android, and python engineerhttp://cl.ly/bvt5 
+love python? love love? come join the engineering team building@hingeappin nyc.https://angel.co/hinge/jobs/51589-senior-python-api-engineer …
+wanna learn python? get started next week:http://blog.safariflow.com/2013/12/06/safari-blog-week-introductory-python-bootcamp/ …
+javascript, coffeescript, objective-c, scala, php, python, ruby#code2013

@@ -1,0 +1,80 @@
+i very much dislike the#wordpresseditor … seriously considering moving everything to#pelicanhttp://blog.notmyidea.org/pelican-a-simple-static-blog-generator-in-python.html …
+#puppet,#python, and#wsgioh my
+working on a#pythonapp and testing out#gunicornas the fronting#wsgiserver with#nginxin front
+there was a python script that would help sort your dropbox uploads into folders based on phone device. anyone know if it works under 10.10?
+@davidcarltonspeed + python == win in my book! :-)
+dagje efteling met fons zit er op. oa 7x python. nu misselijk maar voldaan huiswaarts.
+ok this looks like a pretty cool use of gdb's python support. calling a python function in a conditional breakpointhttp://tromey.com/blog/?p=412 
+@rapid7is hiring a 100% remote python/go dev!!https://careers-rapid7.icims.com/jobs/2067/analytic-response-developer/job …
+hack on python for adobe. ask me how :)
+i’m gonna be the jk rowling of python authors
+i’m on the fence about taking a contract with wiley to write an advanced python book. has anyone done this and can tell me their experience?
+made an ios workflow using pythonista that downloads yt videos and saves them locally. done while waiting for lunch, using just the iphone.
+showbiz bear  @ dolly pythonhttp://instagr.am/p/g4pi3weqaj/ 
+baypiggies meetup: type hints: gradual typing for python 3 w/ guido van rossum (at@linkedinin mountain view, ca)https://www.swarmapp.com/c/2qzwrksjpkq 
+sf python meetup: gigascale engineering and building asynchronous python web apps (@ yelp hq in san francisco, ca)https://www.swarmapp.com/c/8qdeeirx6a5 
+learning python (@ sisters coffee company - @sisterscoffeeco in portland, or)https://www.swarmapp.com/c/hhltxk4pbgg 
+eating good food, enjoying the weather, and learning some python (@ tilt -  pearl district -@tiltitup)https://www.swarmapp.com/c/ldy3iv0ktv6 
+pythonic is to python as gothic is to go?
+iemand nog op zoek naar een python / ruby freelance klus?#rt#developer
+today i've written python, some ruby and some clojure. suprised how much python i've forgotten and how much clojure i remember#lifeatpuppet
+#rubyv.#pythonv.#php: which do you prefer?https://www.udemy.com/blog/modern-language-wars/ …
+is#pythonthe best language to learn first? or in general?https://www.linkedin.com/today/post/article/20141108182224-4467836-python-is-one-of-the-best-programming-languages-to-learn-first?_msplash=1 …
+took me ~2 hr. to learn enough about python to get a rudimentary scraping tool built. not bad for a 1st attempt. time to soak of some#data
+hey developers: what's your favorite stack right now? are you using a javascript framework like mean or something older like python/django?
+dc python (at@istrategylabsw/@joshfinnie) [pic]:http://4sq.com/1eu6hnz 
+dinner before hosting dc python. (@ chipotle mexican grill)http://4sq.com/1emwdm4 
+dc python! looking forward to pandas and more. true geekery tonight my friends. let's get it on! [pic]:http://4sq.com/1fi7mpp 
+ever wonder how python loads installed packages?  look no further...http://grahamwideman.wikispaces.com/python-+site-package+dirs+and+.pth+files …
+ok everyone, it's time to move to python 3.x. we've held off long enough.
+great, concise presentation by@treycauseyon testing for data scientists. python toolchain, yet principles apply generally.
+feels like christmas:@treycausey: ipython notebooks in sublime text 3.https://sublime.wbond.net/packages/ipython%20notebook …
+.@bulletgani:@brightscopeis hiring#python#webdev#frontendfolkspic.twitter.com/ckzyrhio
+having started working in ruby it seems crazy that python requires two different package managers (pip and easy_install) to be effective.
+this book on learning python is from 2001, and its “hello, world!” example doesn’t work because ‘print’ was changed to a function.
+rt@reed_mangino:  $ python <return> >>> import this <return>  re-read until memorized.
+learn it the hard wayhttp://learnpythonthehardway.org/ faq1: “can i use idle? no, you should use terminal…” :)
+the#pythonstandard library has ~200k loc but defines only 165 exceptions.
+just switched to@pycharmand now i'm gonna have nightmares about "python skeletons".
+wait, the built-in python libraries don't do https certificate validation? they just silently accept anything? isn't that a little odd?
+pycharm was already a super hero but now pycharm with java 1.8 is beautiful. so fast, much wow#python
+can i haz pep 483 yet?#python
+/me reads into how i can contribute to python docs
+“method which returns a result object.” this result object is actually called ‘asyncresult’. pydocs really suck.#python
+python, allowing people to return arbitrary types since 1991.#python
+tastypie the silent killer of time#python
+teaching high school math with pythonhttps://www.youtube.com/watch?v=hfvq6o7di0g …#neit15
+wanna hack on something meaningful this weekend?  contribute to fplapi, a#python#apifor the federal poverty levelhttps://github.com/codeforamerica/fplapi …
+just got this week's businessweek with@ftrain's epic essay about code. saw the cover and was all "ugh python whyyyyyyy"#snobbery#ruby4eva
+"i call it my phd box - push here dummy"@mraadtoolbox python+impala million feature aggregations in millisecondshttp://thunderheadxpler.blogspot.com/2015/01/spark-cassandra-tessellation-and-arcgis.html?m=1 …
+~ λ python >>> false == 0 true >>>  ~ λ coffee coffee> false is 0 false coffee>  sad!
+php, css, javascript, sql, and html, of course! a plethora of frameworks, no problem! but god forbid you add python or go to that list.
+why is#pythonthe best language for#datascience? let's ask:@wesmckinn&@hackingdata|https://www.quora.com/why-is-python-a-language-of-choice-for-data-scientists …pic.twitter.com/yywkygeupz
+python is on my tech knowledge bucket list. rt@sockeyes51: i am 59% through my python class with@codecademy. i’m impressed and learning!
+pleased and a bit surprised that the#golangversion of a small http helper utility was faster & easier to write than the one in#python.
+now available for short or long term projects - python/django, php or frontend.
+do you interact with rackspace’s apis with python? i do and wanted something awesome. you should follow my work onhttps://github.com/eldarion/eldrax 
+installing python 3.3.0 on a lot of servers :-)
+oh: "use python they said. it's cross platform, they said. oh wait, my venv has a .so in it."
+blinky tape is here (@blinkytape) - now i need to write a higher level python api for it.
+hey#confoo, i've got awesome stickers! be sure to see my#django&#pythontalk at 1pm in mont-royal! cc@confoocapic.twitter.com/4c3mj2u0vl
+now available for short or long term projects - python/django, php or frontend.
+gesucht: sen. python/django-dev (m/w) mit sql/js/unix-erfahrung für 30h-remote-devjob (agile) bei foss-projekt ab 15.11.#followerpower
+man there is some nice stuff in the python stdlib.
+if i could fix some things in python standards, it’d start line length, and:https://gist.github.com/dcramer/5094200 
+my options are to use the dated 0.9 socket.io and python gevent-socket.io or suffer using node.js .. tough call :(
+grrr python support for socket.io is pretty piss poor. i have an experimental project that would require it and node.js is a bit too painful
+why does 'list' implement __iadd__ (+=)  in python? yeah, it's mutable, but += looks like an assignment - not a method call.
+@raboisdon't get me wrong, love python. more all that interesting slide news on the blogs
+the full monty python and the holy grail#20x2game
+i just walked past either a flock(?) of nuns or a monty python sketch.
+seeking a grail#montypython@ the texas renaissance festivalhttp://instagram.com/p/ulfprfitjo/ 
+thanks for a great season. go, pythons!#soccerpic.twitter.com/hnx86g42kz
+spamalot!!! (@ the hollywood bowl for monty python's spamalot in los angeles, ca)https://www.swarmapp.com/c/eoubktwxw75 pic.twitter.com/zrg3ibbb7q
+safe to say vogels doesn't like python
+i’ll make may kids watch this as much as i’ll make them watch godfather, monty python and ferris beuler.
+monty python and the holy grail. watching.
+oh: “python is a hell of a drug” re: that enthusiastic lightning talk#pycon
+@stephaniebethpython 3!
+nyc python / flask meetup (at the perfect pint) —https://path.com/p/1xpqza 
+spiny norman would be totally psyched.http://en.m.wikipedia.org/wiki/monty_python's_flying_circus …[pic]:http://4sq.com/190jqfx 
